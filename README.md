@@ -1,5 +1,8 @@
-# HP-Prodesk-400-G3-DM-Hackintosh
+# HP-Prodesk-400-G3-DM-Big Sur
 HP Prodesk 400 G3 Desktop Mini (DM) - HP Elitedesk 800 G3 Desktop Mini (DM) - Opencore 0.6.1 - Big Sur
+This version bypass the errors:
+"lilu user @ disabling user patcher on request"
+"apfs_module_start:2436"
 
 ![HP Prodesk 400 G3 Desktop Mini Business PC](https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c05367444.png)
 
